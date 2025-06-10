@@ -1,0 +1,21 @@
+# Ignore Python cache files
+__pycache__/
+*.pyc
+*.pyo
+
+# Ignore environment files
+.env
+venv/
+env/
+
+# Ignore VSCode/IDE settings
+.vscode/
+.idea/
+
+# Ignore compiled files, logs
+*.log
+
+# Byte-compiled / optimized / DLL files
+*.so
+*.dll
+*.dylib
